@@ -34,7 +34,7 @@ export default function PrivacyPolicy() {
           </p>
           <p>
             <strong>Expo QR App Development Team</strong><br />
-            Email: <a href="mailto:support@expoqr.app">ganeshglive@gmail.com</a><br />
+            Email: <a href="mailto:ganeshglive@gmail.com">ganeshglive@gmail.com</a><br />
           </p>
 
           <h3>Scope of Data Processing</h3>
@@ -50,7 +50,7 @@ export default function PrivacyPolicy() {
             When processing personal data that is required to fulfill a contract with the user, point (b) of paragraph 1 of article 6 of the GDPR serves as the legal basis.
           </p>
           <p>
-            If the processing is necessary to account for the legitimate interests of our company or a third party and if these interests are not overridden by interests of the user, the legal basis is provided by point (f) of paragraph 1 of article 6 of the GDPR.
+            If the processing is necessary to account for the legitimate interests of our development team or a third party and if these interests are not overridden by interests of the user, the legal basis is provided by point (f) of paragraph 1 of article 6 of the GDPR.
           </p>
 
           <h3>Retention Period</h3>

@@ -145,7 +145,7 @@ export default function TermsAndConditions() {
             If you have any questions about these Terms, please reach out:
           </p>
           <p>
-            <strong>Email:</strong> legal@expoqr.app<br />
+            <strong>Email:</strong> ganeshglive@gmail.com<br />
             <strong>Website:</strong> https://expoqr.app
           </p>
         </div>
