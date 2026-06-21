@@ -52,14 +52,14 @@ export default function Home() {
       <section className="hero">
         <div className="hero-glow" />
         <div className="hero-badge">
-          <span /> Available on Google Play
+          <span /> Available on Android & iOS
         </div>
         <h1>
           Scan anything.<br />
           Generate <em>everything</em>.
         </h1>
         <p className="hero-sub">
-          Expo QR is the cleanest QR scanner and generator for Android.
+          Expo QR is the cleanest QR scanner and generator for Android & iOS.
           Offline-first, instant, and completely free.
         </p>
         <div className="hero-actions">
@@ -147,7 +147,7 @@ export default function Home() {
       <section className="section" id="download">
         <div className="cta-banner">
           <h2>Ready to scan smarter?</h2>
-          <p>Download Expo QR free on Android — no ads, no subscription, no nonsense.</p>
+          <p>Download Expo QR free on Android & iOS — no ads, no subscription, no nonsense.</p>
           <div className="store-badges">
             <a
               href="https://play.google.com/store"
@@ -159,6 +159,26 @@ export default function Home() {
               <div>
                 <div style={{ fontSize: '11px', opacity: 0.6 }}>GET IT ON</div>
                 <div>Google Play</div>
+              </div>
+            </a>
+            <a
+              href="https://apps.apple.com"
+              className="store-badge"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <svg
+                viewBox="0 0 384 512"
+                width="20"
+                height="20"
+                fill="currentColor"
+                style={{ marginRight: '2px', display: 'block' }}
+              >
+                <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-48.7-22.9-84.5-22.2-46.9.7-90.2 28-114.3 70-49 85.2-12.6 211.6 34.6 279.7 23.1 33.3 50.1 70.3 86 69 34.6-1.4 47.8-22.3 89.6-22.3 41.9 0 54 22.3 89.9 21.5 36.6-.7 60.4-33.3 83.2-66.9 26.3-38.5 37.1-75.8 37.6-77.8-.8-.4-72.7-27.9-73.4-110.8zM290.5 73.1c15.8-19.3 26.5-46.1 23.5-73.1-23.2 1-51.5 15.5-68.2 35-14.2 16.5-26.7 43.6-23.3 70.2 25.8 2 52.4-12.8 68-32.1z" />
+              </svg>
+              <div>
+                <div style={{ fontSize: '11px', opacity: 0.6 }}>DOWNLOAD ON THE</div>
+                <div>App Store</div>
               </div>
             </a>
           </div>

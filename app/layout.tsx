@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Expo QR — Scan & Generate QR Codes',
-  description: 'The fastest QR code scanner and generator for Android. Scan any QR code or create custom QR codes for URLs, contacts, WiFi, and more.',
+  description: 'The fastest QR code scanner and generator for Android and iOS. Scan any QR code or create custom QR codes for URLs, contacts, WiFi, and more.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

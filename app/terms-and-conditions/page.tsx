@@ -29,7 +29,7 @@ export default function TermsAndConditions() {
         <div className="legal-section">
           <h2>2. Description of the App</h2>
           <p>
-            Expo QR is a free Android application that allows users to scan QR codes using their device
+            Expo QR is a free application for Android and iOS that allows users to scan QR codes using their device
             camera and generate custom QR codes from various data types including URLs, contact
             information, WiFi credentials, email addresses, and more. The App operates primarily
             offline and requires no user account.

@@ -25,7 +25,10 @@ export default function PrivacyPolicy() {
             This privacy policy explains the nature, purpose and scope of the collection and processing of personal data for the following barcode scanner application:
           </p>
           <p>
-            <strong>Expo QR:</strong> <a href="https://play.google.com/store/apps/details?id=com.expo.qr.scanner" target="_blank" rel="noopener noreferrer">https://play.google.com/store/apps/details?id=com.expo.qr.scanner</a>
+            <strong>Expo QR (Android):</strong> <a href="https://play.google.com/store/apps/details?id=com.expo.qr.scanner" target="_blank" rel="noopener noreferrer">https://play.google.com/store/apps/details?id=com.expo.qr.scanner</a>
+          </p>
+          <p>
+            <strong>Expo QR (iOS):</strong> <a href="https://apps.apple.com" target="_blank" rel="noopener noreferrer">https://apps.apple.com</a>
           </p>
 
           <h3>Name and Address of Responsible Entity</h3>
