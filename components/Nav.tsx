@@ -12,6 +12,7 @@ export default function Nav() {
         <li><Link href="/#features">Features</Link></li>
         <li><Link href="/#how-it-works">How it works</Link></li>
         <li><Link href="/#qr-types">QR Types</Link></li>
+        <li><Link href="/support">Support</Link></li>
         <li><Link href="/#download" className="nav-cta">Download Free</Link></li>
       </ul>
     </nav>
